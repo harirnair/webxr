@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Statue Prototype
+* source:	https://sketchfab.com/3d-models/low-poly-statue-prototype-54ee53fb951c40aca5b4c71c8e401a26
+* author:	onesketchyguy (https://sketchfab.com/onesketchyguy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Statue Prototype" (https://sketchfab.com/3d-models/low-poly-statue-prototype-54ee53fb951c40aca5b4c71c8e401a26) by onesketchyguy (https://sketchfab.com/onesketchyguy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
