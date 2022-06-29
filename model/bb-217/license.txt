@@ -1,0 +1,11 @@
+Model Information:
+* title:	BB-217 Exploded View
+* source:	https://sketchfab.com/3d-models/bb-217-exploded-view-c9294e5e12c4423cbe10f412904fbbd6
+* author:	gregmoudy (https://sketchfab.com/gregmoudy)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "BB-217 Exploded View" (https://sketchfab.com/3d-models/bb-217-exploded-view-c9294e5e12c4423cbe10f412904fbbd6) by gregmoudy (https://sketchfab.com/gregmoudy) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
